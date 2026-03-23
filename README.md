@@ -1,8 +1,11 @@
 # From Physics-Informed to Physics-Enforced Generation: A Decoupled Paradigm for Controllable Visual Anomaly Synthesis
 
-**MauGAN** is the official PyTorch implementation for the paper: **“From Physics-Informed to Physics-Enforced Generation: A Decoupled Paradigm for Controllable Visual Anomaly Synthesis”**.
+**MauGAN** is the official PyTorch implementation for the paper: **“From Physics-Informed to Physics-Enforced Generation: A Decoupled Paradigm for Controllable Visual Anomaly Synthesis”**, submitted to *The Visual Computer*.
 
 This repository contains the source code and models for our novel two-stage framework that synthesizes **physically plausible and visually realistic** defect images for industrial visual inspection, enabling high-performance detection models to be trained **without any real defect annotations**.
+
+> **📌 Note**: This code is directly related to the manuscript submitted to *The Visual Computer*. If you find this work useful for your research, please cite our paper (see [Citation](#-citation) section).From Physics-Informed to Physics-Enforced Generation: A Decoupled Paradigm for Controllable Visual Anomaly Synthesis
+
 
 ## 📦 安装
 
@@ -91,14 +94,27 @@ maugan/
 
 ## 📝 引用
 
-如果MauGAN对您的研究有帮助，请引用我们的论文：
+If MauGAN contributes to your research, please cite our paper:
 
 ```bibtex
 @article{wang2026maugan,
-  title={MauGAN: Physics-Constrained Generative Modeling for Photovoltaic Defect Detection with Zero Real Defect Annotations},
-  author={Wang, X. and et al.},
-  journal={Submitted to Computer Vision and Image Understanding},
-  year={2026}
+  title={From Physics-Informed to Physics-Enforced Generation: A Decoupled Paradigm for Controllable Visual Anomaly Synthesis},
+  author={Wang, Xiaolong and Jiang, Bo and Wang, Genyi},
+  journal={The Visual Computer},
+  year={2026},
+  note={Submitted}
+}
+```
+
+**BibTeX entry for code:**
+```bibtex
+@misc{maugan2026,
+  author = {Wang, Xiaolong and Jiang, Bo and Wang, Genyi},
+  title = {MauGAN: Physics-Enforced Generative Framework for Visual Anomaly Synthesis},
+  year = {2026},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/aitangbodan/PV-IoT}},
+  doi = {10.5281/zenodo.XXXXXX}
 }
 ```
 
