@@ -1,6 +1,6 @@
-# MauGAN: Physics-Constrained Generative Modeling for Photovoltaic Defect Detection
+# From Physics-Informed to Physics-Enforced Generation: A Decoupled Paradigm for Controllable Visual Anomaly Synthesis
 
-**MauGAN** is the official PyTorch implementation for the paper: **“MauGAN: Physics-Constrained Generative Modeling for Photovoltaic Defect Detection with Zero Real Defect Annotations”**.
+**MauGAN** is the official PyTorch implementation for the paper: **“From Physics-Informed to Physics-Enforced Generation: A Decoupled Paradigm for Controllable Visual Anomaly Synthesis”**.
 
 This repository contains the source code and models for our novel two-stage framework that synthesizes **physically plausible and visually realistic** defect images for industrial visual inspection, enabling high-performance detection models to be trained **without any real defect annotations**.
 
