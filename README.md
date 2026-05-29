@@ -8,7 +8,7 @@ This repository contains the source code and models for our novel two-stage fram
 
 ## 📑 Supplementary Materials
 All supplementary materials referenced in the paper are available in the `supplementary/` directory of this repository:
-- 9 distribution histograms comparing generated and real defect morphologies (Fig. S1-S6)
+- 6 distribution histograms comparing generated and real defect morphologies (Fig. S1-S6)
 - Detection results on 150 cross-geographical-region real defect images
 - Complete statistical data for all core experiments and ablation studies
 - High-resolution visualizations and training curves
