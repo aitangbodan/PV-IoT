@@ -9,11 +9,10 @@ This repository contains the source code and models for our novel two-stage fram
 ## 📑 Supplementary Materials
 All supplementary materials referenced in the paper are available in the `supplementary/` directory of this repository:
 - 6 distribution histograms comparing generated and real defect morphologies (Fig. S1-S6)
-- Detection results on 150 cross-geographical-region real defect images
 - Complete statistical data for all core experiments and ablation studies
 - High-resolution visualizations and training curves
 
-All materials are also archived on Zenodo (DOI: 10.5281/zenodo.XXXXXX, will be activated upon acceptance).
+The detection results on 150 cross-geographical-region real defect images and other dataset materials are available at 10.5281/zenodo.20485035.
 
 
 ## 📦 安装
